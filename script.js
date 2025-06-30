@@ -1,3 +1,3 @@
-console.log('hello!')
+console.log('Hello Git!')
 
-alert('script!')
+alert('Hello Git!')
