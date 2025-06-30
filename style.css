@@ -5,3 +5,10 @@
 body {
   margin: 0;
 }
+
+h1 {
+  color: brown;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
